@@ -1,0 +1,11 @@
+{
+  "name": "embedding",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@xenova/transformers": "^2.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
